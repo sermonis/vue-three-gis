@@ -1889,11 +1889,6 @@ de-indent@^1.0.2:
   resolved "https://registry.yarnpkg.com/de-indent/-/de-indent-1.0.2.tgz#b2038e846dc33baa5796128d0804b455b8c1e21d"
   integrity sha1-sgOOhG3DO6pXlhKNCAS0VbjB4h0=
 
-debounce@^1.1.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/debounce/-/debounce-1.2.0.tgz#44a540abc0ea9943018dc0eaa95cce87f65cd131"
-  integrity sha512-mYtLl1xfZLi1m4RtQYlZgJUNQjl4ZxVnHzIR8nLLgi4q1YT8o/WM+MK/f8yfcc9s5Ir5zRaPZyZU6xs1Syoocg==
-
 debug@*:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/debug/-/debug-4.1.1.tgz#3b72260255109c6b589cee050f1d516139664791"
@@ -5762,9 +5757,9 @@ vue@^2.5.13:
   integrity sha512-ImThpeNU9HbdZL3utgMCq0oiMzAkt1mcgy3/E6zWC/G6AaQoeuFdsl9nDhTDU3X1R6FK7nsIUuRACVcjI+A2GQ==
 
 vuetify@^2.0.2:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.0.4.tgz#0f751ba1d257212de16e30f3e1e9c4b8a8a93353"
-  integrity sha512-StXzJUph//ZJ1UTQNoJBmjAcC71Goeeg5Ag392z85dyertihy/3BIzPPxMqFTOJuDzst6oGQ3uQCfkIIqJvtfA==
+  version "2.6.10"
+  resolved "https://registry.yarnpkg.com/vuetify/-/vuetify-2.6.10.tgz#b86cd7a97bf8cd3828a72c349795b5b3c539ebc2"
+  integrity sha512-fgUeRDDCwYkwu6WGEEKGe7IdfzOsXJCZGrqkn1pcS2ycuoDL8mR2/dejH5iFNnBY6MnsT365PAGn0J+9otjfQg==
 
 watchpack@^1.4.0:
   version "1.6.0"
